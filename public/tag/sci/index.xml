@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SCI | Hasibul Hasan</title>
+    <link>https://example.com/tag/sci/</link>
+      <atom:link href="https://example.com/tag/sci/index.xml" rel="self" type="application/rss+xml" />
+    <description>SCI</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <image>
+      <url>https://example.com/media/icon_hu5a121238b566f937dbf95d38be793d9a_13484_512x512_fill_lanczos_center_3.png</url>
+      <title>SCI</title>
+      <link>https://example.com/tag/sci/</link>
+    </image>
+    
+    <item>
+      <title>Performance Comparison of Low-cost Air Quality Sensors Across Six Cities of Continental United States</title>
+      <link>https://example.com/project/sci/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/sci/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
